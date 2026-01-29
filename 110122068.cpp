@@ -2,6 +2,7 @@
 
 int main() {
     int n;
+    
     printf("Nhap bien n: ");
     scanf("%d", &n);
 
@@ -19,3 +20,4 @@ int main() {
 
     return 0;
 }
+
